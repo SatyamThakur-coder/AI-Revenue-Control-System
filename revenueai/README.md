@@ -3,6 +3,7 @@
 RevenueAI is an enterprise-grade AI revenue intelligence, anomaly detection, predictive forecasting, and customer churn platform built for small and medium-sized businesses.
 
 ---
+demo --- https://github.com/SatyamThakur-coder/AI-Revenue-Control-System/blob/main/revenueai/Screenshot%202026-09-05%20133018.png
 
 ## 🌟 Key Features
 
